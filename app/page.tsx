@@ -1,5 +1,6 @@
 import Image from "next/image";
+import { Flex } from "./components";
 
 export default function Home() {
-  return <div>hr-devlog-season 2</div>;
+  return <Flex justify="center"></Flex>;
 }
